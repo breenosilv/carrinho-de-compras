@@ -1,12 +1,11 @@
 Carrinho de Compras
 
-Este é um projeto de um sistema de carrinho de compras desenvolvido em Java que permite que os clientes visualizem os produtos disponíveis, escolham os produtos desejados, selecionem a quantidade e confirmem o pedido. O sistema também permite que os clientes visualizem a fatura atual da sua compra.
+Este é um projeto de um sistema de carrinho de compras desenvolvido em Java que permite que os clientes visualizem os produtos disponíveis, escolham os produtos desejados e selecionem a quantidade. O sistema também permite que os clientes visualizem a fatura atual da sua compra.
 
 Funcionalidades:
 Visualização dos produtos disponíveis com seus IDs, valores e nomes.
 Escolha dos produtos desejados pelos clientes.
 Seleção da quantidade de cada produto.
-Confirmação do pedido pelo cliente.
 Visualização da fatura atual da compra.
 
 Instalação e Uso:
@@ -21,8 +20,6 @@ Visualização de Produtos Disponíveis:
 Os produtos disponíveis serão exibidos com seus IDs, valores e nomes.
 Seleção de Produtos:
 O cliente digita o código do produto desejado e seleciona a quantidade.
-Confirmação do Pedido:
-Após selecionar todos os produtos desejados, o cliente confirma o pedido.
 Visualização da Fatura:
 A fatura atual da compra, incluindo todos os produtos selecionados e o valor total, será exibida.
 
